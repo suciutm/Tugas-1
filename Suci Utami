@@ -1,0 +1,53 @@
+Nama : Suci Utami
+Kelas : 5 MIP
+NIM : 062040830531
+
+1) Apa itu Git dan kegunaanya?
+Git merupakan tools yang umum digunakan untuk pengembangan software. Git adalah tools atau control system yang dapat digunakan oleh programmer/developer untuk menjalankan sebuah proyek, kecil maupun besar. Version Control maksudnya sistem Git akan mencatat setiap perubahan yang terjadi pada source code kita sehingga memungkinkan untuk mengambil kembali source code lama jika suatu saat ingin kembali ke versi berapapun dari aplikasi yang pernah ditulis.
+Kegunaan dari Git, diantaranya:
+a. mengatur versi dari source code.
+b. menambahkan checkpoint ketika terjadi perubahan pada kode dan tentunya akan mempermudah untuk tetap mengetahui apa saja yang berubah dari source code yang telah dibuat.
+c. menyimpan seluruh versi source code.
+d. Bisa branching dan merging
+e. Bisa berkontribusi dalam berbagai proyek yang sifatnya open-source.
+f. Bisa memahami cara mendeploy sebuah aplikasi modern.
+g. Bisa memahami cara untuk berkolaborasi sebuah atau beberapa proyek.
+
+2) Apa itu Github dan kegunaanya?
+GitHub adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. yang mana kita dapat membuat atau mengupload kode ke server GitHub dan kemudian melakukan coding secara online.
+Hal tersebut dimungkinkan karena GitHub dibangun atas dua sistem utama, yaitu version control dan Git.
+Kegunaan Github, diantaranya:
+a. Memudahkan Kolaborasi Pengerjaan Project.
+b. Mencegah Perubahan Kode yang Bisa Merusak Kode Asli.
+c. Sebagai Portofolio Bagi Developer.
+
+3) Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut!
+a. Repository, yaitu folder atau direktori yang isinya adalah file dan riwayat perubahan kode project.
+b. Commit, yaitu	Rekaman riwayat perubahan pada file, meliputi siapa, apa, dan kapan perubahan terjadi.
+c. Clone, yaitu	Salinan repository orang lain ke Github dan bisa diedit secara offline.
+d. Fork, maksudnya	Menyalin repository orang lain ke akun Github. Umumnya, hal ini digunakan untuk bereksperimen pada suatu project yang dianggap menarik.
+e. Remote, yaitu	Versi respiratory yang disimpan di server Github. Bisa dilakukan sinkronisasi dengan versi clone sehingga perubahan offline juga tetap tercatat.
+f. Branch, Disebut juga dengan cabang dari repository utama. Di branch, kode yang digunakan bisa diotak-atik untuk memperbaiki bug. 
+g. Merge, merupakan	Penggabungan kode yang sudah diubah pada suatu branch ke respiratory lainnya. 
+h. Pull request, dimana	bisa mengusulkan suatu perubahan pada repository ke pemilik/pemimpin project. 
+i. Issue, dimana	berisi saran, pertanyaan atau permintaan yang berhubungan dengan repository.
+
+4) Sebutkan layanan selain github!
+a. GitLab
+GitLab , alternatif yang menawarkan semua alat untuk siklus hidup DevOps yang lengkap. Gitlab dapat digunakan mulai dari perencanaan proyek hingga penerapan. 
+b. BitBucket
+BitBucket dimiliki oleh Atlassian dan digunakan oleh banyak perusahaan besar karena terintegrasi dengan alat Atlassian lainnya seperti Jira, Confluence, dan HipChat, sehingga sangat memudahkan tim besar untuk mengelola proyek mereka. 
+Bitbucket adalah platform kontrol versi git inti tertutup yang menghosting proyek sumber terbuka, seperti GitHub.
+c. Codegiant
+Codegiant adalah alternatif GitHub hebat yang menawarkan pelacak masalah sederhana , kerangka CI / CD bawaan, sistem pelacakan bug, manajemen kode sumber, dan  memiliki interface yang cukup intuitif.
+d. SourceForge
+SourceForge dimiliki oleh Slashdot Media (komunitas teknologi teratas di dunia).
+Dengan SourceForge, dapat mengembangkan dan mendapatkan kode ditinjau dan juga menerbitkan proyek sumber terbuka. Banyak proyek Linux dikembangkan melalui SourceForge. 
+e. Launchpad 
+Launchpad merupakan alternatif GitHub  dari Canonica, dan terutama cocok digunakan untuk proyek Ubuntu. 
+f. AWS CodeCommit
+Tujuan utama AWS CodeCommit adalah untuk memudahkan kolaborasi antar pengembang. Itulah mengapa melakukan, bercabang, dan menggabungkan kode terjadi tanpa kerumitan apa pun di dalam CodeCommit. Juga dapat membuat repositori dari AWS Management Console, AWS CLI, atau AWS SDK.
+g. Gitea
+Gitea adalah tiruan GitHub ringan (bercabang dari Gogs ) yang ditulis dalam Go lang. Dapat berjalan di Windows, Mac OS, Linux, ARM, dll. 
+Gitea adalah alternatif super ringan untuk GitHub. Gitea memiliki persyaratan minimal yang rendah dan dapat dijalankan dengan Raspberry Pi yang tidak mahal juga open source dan semua orang dapat berkontribusi.
+Gitea memiliki sistem pelacakan masalah yang memungkinkan menambahkan tonggak sejarah, label, dan pelacakan waktu. Pelacak masalah Gitea adalah alternatif sederhana untuk opsi kompleks dan canggih lainnya.
